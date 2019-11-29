@@ -1,0 +1,25 @@
+{
+  "name": "recursive-mongodb-query",
+  "version": "0.0.1",
+  "description": "Tool to manage multiple mongo queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adantoscano/recursive-mongodb-query.git"
+  },
+  "keywords": [
+    "mongodb",
+    "query",
+    "nodejs"
+  ],
+  "author": "Adan Toscano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adantoscano/recursive-mongodb-query/issues"
+  },
+  "homepage": "https://github.com/adantoscano/recursive-mongodb-query#readme"
+}
